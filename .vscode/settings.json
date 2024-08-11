@@ -1,0 +1,5 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "dotnet.defaultSolution": "disable",
+  "cmake.configureOnOpen": false
+}
